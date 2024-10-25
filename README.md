@@ -10,7 +10,8 @@ This project involves the analysis of financial data to uncover insights and tre
 
 ## Files Included
 - **Financial Data Analysis.ipynb**: Jupyter Notebook containing the analysis and visualizations.
-- **04-01-Financial Sample Data.xlsx**: Dataset used for the analysis.
+- **04-01-Financial Sample Data.xlsx**: Original dataset used for the analysis.
+- **cleaned_financial_data.xls**: Cleaned dataset used for the analysis.
 
 ## Technologies Used
 - Python
