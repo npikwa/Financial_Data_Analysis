@@ -10,6 +10,12 @@
 ![image](https://github.com/user-attachments/assets/aaaea449-e3e0-4087-867a-60ce92b9d079)
 
 
+![image](https://github.com/user-attachments/assets/c439a0b6-1127-42e0-85d8-1267373f93b3)
+
+
+![image](https://github.com/user-attachments/assets/b9784465-652d-48e6-b3a8-df57748735aa)
+
+
 ## Files Included
 - **Financial Data Analysis.ipynb**: Jupyter Notebook containing the analysis and visualizations.
 - **04-01-Financial Sample Data.xlsx**: Original dataset used for the analysis.
